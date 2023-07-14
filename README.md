@@ -2,6 +2,8 @@
 A LSTM + CNN or LRCN model which recognises the action performed in a video. It is trained on the UCF-50 dataset.
 
 Link To the UCF-50 Dataset: https://www.crcv.ucf.edu/data/UCF50.php
+
+Drive link for UCF-50 Dataset: https://drive.google.com/file/d/1RTwBTKissqADhUlXtPGU5i6pkHV_Dxnl/view?usp=drive_link
 <br/>
 
 
